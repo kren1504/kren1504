@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karen
 - 👀 I’m interested in Backend Programing
-- 🌱 I’m currently learning Python, Flaks, Selenium
+- 🌱 I’m currently learning Python, Flaks, Selenium, Android Studio
 
 
 <!---
